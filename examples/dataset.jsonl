@@ -1,0 +1,3 @@
+{"prompt": "Explain wave period", "completion": "Seconds between crests", "split": "train"}
+{"prompt": " explain WAVE period ", "completion": "Time between crests", "split": "test"}
+{"prompt": "Synthetic contact", "completion": "demo@example.test", "split": "train"}

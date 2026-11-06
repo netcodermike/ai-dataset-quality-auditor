@@ -1,0 +1,15 @@
+node_modules/
+__pycache__/
+*.pyc
+target/
+bin/
+obj/
+build/
+.build/
+.gradle/
+*.class
+.env
+*.db
+*.sqlite
+*.wav
+!examples/*.wav
